@@ -1,10 +1,10 @@
  <h1><span><img src="https://github.com/WinEdt-Team/WinEdt/assets/34773801/e5a22c0f-29a2-48ae-95a6-9606e02c29c0" width="60" height="40" style="vertical-align:bottom;margin:0px 0px">  WinEdt <a href="https://github.com/WinEdt-Team/WinEdt/discussions" > discussions </a> </span></h1>
-This is a public forum for WinEdt-related issues and discussions...
 
+Welcome to WinEdt discussion to support the WinEdt editor which can be downloaded from our [home page](https://www.winedt.com/). New users should first read the WinEdt [QuickGuide.pdf](https://www.winedt.com/doc/QuickGuide.pdf).
 
-new readme
+Please acquaint yourself with our discussion forum which has following [structure](https://github.com/WinEdt-Team/WinEdt/discussions/4).  All new discussions are initialized using the GitHub web pages, however discussion can be replied by email; default email notifications are available to the user and the WinEdt-Team.  All users have the ability to [obtain email notifications. ](https://github.com/WinEdt-Team/WinEdt/discussions/3)
 
-
+[Alex Simonic](https://www.winedt.com/) will continue to give expert technical advice regarding the ins and outs of WinEdt. [Anton Vrba](https://github.com/anton-vrba) will advise on matters pertaing to the GitHub dicussion forum. To participate in these discussions you need a GitHub account; should you have problems registering with GitHub contact Anton -- email: alv (at) iow.onl 
 <!--
 ![WinEdt](https://github.com/WinEdt-Team/WinEdt/assets/34773801/e5a22c0f-29a2-48ae-95a6-9606e02c29c0)
 -->
