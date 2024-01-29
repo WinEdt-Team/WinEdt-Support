@@ -1,4 +1,4 @@
- <h1><span><img src="https://github.com/WinEdt-Team/WinEdt-Support/assets/34773801/0d1caf2a-d7e1-495d-be67-7035f28781b7" width="60" height="40" style="vertical-align:bottom;margin:0px 0px">  WinEdt <a href="https://github.com/WinEdt-Team/WinEdt/discussions" > discussions </a> </span></h1>
+ <h1><span><img src="https://github.com/WinEdt-Team/WinEdt-Support/assets/34773801/0d1caf2a-d7e1-495d-be67-7035f28781b7" width="60" height="40" style="vertical-align:bottom;margin:0px 0px">  WinEdt <a href="https://github.com/WinEdt-Team/WinEdt-Support/discussions" > discussions </a> </span></h1>
 
 Welcome to WinEdt discussion to support the WinEdt editor which can be downloaded from our [home page](https://www.winedt.com/). New users should first read the WinEdt [QuickGuide.pdf](https://www.winedt.com/doc/QuickGuide.pdf).
 
